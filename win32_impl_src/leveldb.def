@@ -2,6 +2,8 @@ LIBRARY "leveldb.pyd"
 
 EXPORTS 
 
+PyInit_leveldb
+
 initleveldb
 
 leveldb_open

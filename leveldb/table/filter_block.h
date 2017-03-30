@@ -10,7 +10,7 @@
 #define STORAGE_LEVELDB_TABLE_FILTER_BLOCK_H_
 
 #include <stddef.h>
-#include <stdint.h>
+#include <stdint_w.h>
 #include <string>
 #include <vector>
 #include "leveldb/slice.h"

@@ -33,7 +33,6 @@ typedef INT64 int64;
 #undef small
 #endif
 
-#define snprintf _snprintf
 #define va_copy(a, b) do { (a) = (b); } while (0)
 
 # if !defined(DISALLOW_COPY_AND_ASSIGN)
